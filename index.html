@@ -224,8 +224,8 @@ img
  
 var imgcontainer = document.querySelector('.imgcontainer').style.display = "block";
  
-  var jinal = qrvalue.value;
-  qrimg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=170×170&data=' + jinal;
+  var ja = qrvalue.value;
+  qrimg.src = 'https://api.qrserver.com/v1/create-qr-code/?size=170×170&data=' + ja;
   
   var link = document.getElementById("link");
   link.href = qrimg + ".jpg";

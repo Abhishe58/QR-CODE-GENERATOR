@@ -3,7 +3,7 @@ A simple and lightweight web application that allows users to generate a QR code
 
 🖼️ Demo
 
-👉 https://abhishe58.github.io/qr/
+👉 https://abhishe58.github.io/QR-CODE-GENERATOR/
 
 🚀 Features
 ✅ Enter any text or URL
